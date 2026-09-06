@@ -42,12 +42,15 @@ Ensure you have **Node.js** (v18 or higher) and **npm** installed.
    cd kaman-blog-platform
 
 2. **Install dependencies:**
+    ```bash
     npm install
 
 3. **Start the development server:**
+    ```bash
     npm run dev
 
 4. **Open your browser at**
+    ```bash
     http://localhost:5173.
 
 ## 📁 Project Structure
