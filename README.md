@@ -38,7 +38,7 @@ Ensure you have **Node.js** (v18 or higher) and **npm** installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/kaman-blog-platform.git](https://github.com/YOUR_USERNAME/kaman-blog-platform.git)
+   git clone [https://github.com/Neo-0706/kaman-blog-platform.git](https://github.com/YOUR_USERNAME/kaman-blog-platform.git)
    cd kaman-blog-platform
 
 2. **Install dependencies:**
